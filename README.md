@@ -7,7 +7,10 @@
 
 |레벨|번호|문제명|코드|
 |:---:|:---:|:---:|:---:|
+|1|12901|2016년|[code](https://github.com/jaeheehur/algorithm-programmers/blob/master/src/practice/12901.py)|
+|1|12903|가운데 글자 가져오기|[code](https://github.com/jaeheehur/algorithm-programmers/blob/master/src/practice/12903.py)|
 |1|12906|같은 숫자는 싫어|[code](https://github.com/jaeheehur/algorithm-programmers/blob/master/src/practice/12906.py)|
+|1|12910|나누어 떨어지는 숫자 배열|[code](https://github.com/jaeheehur/algorithm-programmers/blob/master/src/practice/12910.py)|
 |1|12912|두 정수 사이의 합|[code](https://github.com/jaeheehur/algorithm-programmers/blob/master/src/practice/12912.py)|
 |1|12928|약수의 합|[code](https://github.com/jaeheehur/algorithm-programmers/blob/master/src/practice/12928.py)|
 |1|12931|자릿수 더하기|[code](https://github.com/jaeheehur/algorithm-programmers/blob/master/src/practice/12931.py)|
